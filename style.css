@@ -50,46 +50,6 @@ background-color: deepskyblue;
 text-decoration: none;
 
 }
-/*
-.active a:link{
-  text-decoration: underline;
-  text-decoration-color: deepskyblue;
-}
-
-
-.navbar a{
-  font-family: Roboto;
-  width: 100vw;
-
-}
-
-.navlist {
-  background: white;
-  /*
-  width: 5px;
-  height: 5px;
-
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-}
-.navlist a:hover{
-  text-decoration: underline;
-  text-decoration-color: deepskyblue;
-}
-
-.twit-author a:hover{
-  color: deepskyblue;
-}
-.navlist:last-child{
-  justify-content: left;
-}
-
-u1 {
-  display: flex;
-}
-*/
 .navlist{
   background-color: white;
   margin: 0;
